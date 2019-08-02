@@ -1,0 +1,17 @@
+#header{
+
+    background: rgba(18, 109, 18, 0.604);
+    color: $fontColor;
+    ul{
+        text-align: center;
+        li{
+            background: white;
+            color: lightblue;
+            display: inline-block;
+            padding: 6px 20px;
+            margin: 20px;
+            border-radius: 10px;
+            border: 1px solid white;
+        }
+    }
+}
